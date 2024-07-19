@@ -80,7 +80,7 @@ ul li a {
   -webkit-backdrop-filter: blur(4px);
   text-decoration: none;
   font-weight: 500;
-  transition: background 0.1s;
+  transition: background 0.4s;
 }
 
 ul li a:hover {
